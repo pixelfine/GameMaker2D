@@ -1,0 +1,31 @@
+Sprites/Backgrounds/snowMap.jpg
+                                                vvv                         3333333333333333333333333333333333333    D  
+                                                v(0)v                         3                                   3       
+                                                vvv          B              3                                   3    i  
+3                                                                           3                                   3     44
+3  33333333                                                                 i                                   k    D44
+3  i                                                                        k                                   k     44
+3  k                                                   iiiiiiiiiiiii        k^^^^   [1|Y] %1%    [1|C]  Z                 k    iii
+3  k                                                   jjjjjjjjjjjkk        k^^^^  iiii          Z              k    k3 
+3  k   P                 o                     iiii     ZZZ       kk        k^^^                    Z           k    k3 
+3  k          D                      [1|Z][1|Z]        kkkkiiiiiiiiiiiii  kk        k^^                        [1|C]  #     k    k3 
+3  kiiiiiii                       iiiiii       kkkk            k  kk        k^^                           #     k    k3 
+i  jjjjjjjjjjjjjj########jjjjjjjjjjjjjjj       kkkk            kZ kk        k^^                           #[1|g]  [1|g] k    k3 
+k              33333333333                     jjjj            k  kk    g   k^^                           #     j  < k3 
+k^^^^^^ (0)                                                      k  kk        k^^                           #   [1|s] [1|v]d   k3 
+k^^^^^                                                         kZ kk        k^^                           #        iii3 
+k^^^^                                                          k  kk        k^^                  v    [1|X][1|X][1|X][1|X]#[1|X]X         3 
+k^^^                                                           k  kk        k^^                       iiiiiiiiiii     3 
+k^^                                                            kZ jj        k^^      [1|C]      v         [1|#]      3        3 
+k^^                                   ZZZ                      k            k^^                  [1|C]    [1|#]      3     iii3 
+k^^     -                             iiiiiiiii                    D        k^^        v              [1|#]  [1|g]   3        3 
+k^^         #           #             jjjjjjjjj        i>d      Z         d<k^^                       [1|#]      3iii     3 
+k^^     ZZZ#>#         #<#ZZZ         3                kiiiiiiii iiiiiiiiiiii^^            7          [1|#]               3 
+k^^   iiiii #           #iiiii        3                      [1|3] k             ^^     [1|D]                 [1|#]            iii3 
+k^^   jjjjj              jjjjj        3                      [1|3] k                                      [1|#]          d [1|^]  3 
+j3333333333333333333333333   3333333333                      [1|3] iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii>     3 
+                                                             [1|3]                         #    #    #              3333333 
+                                                             [1|3]                        #^#  #^#  #^#             [1|3]       
+                                                             [1|3]                         #    #    #              [1|3]       
+                                                             [1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3][1|3]       
+                                                                                                                        

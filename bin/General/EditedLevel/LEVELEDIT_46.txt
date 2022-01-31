@@ -1,0 +1,81 @@
+Sprites/Backgrounds/snowMap.jpg
+                                             v                 B  3   
+                                                                  3   
+                                         [1|Z]                        3   
+                                                    v             3   
+                                       [1|Z]                          3   
+                                                [1|Z]   d             3   
+                      (0)         b    X       d    [1|Z]               3   
+                     vvv    9m      m[1|m][1|m][1|m]m9          [1|Z]             3   
+                     vvv   3  m####m    [1|9]                         3   
+      d                    3  9    9    3       9mm   Z      ^^^  3   
+                           3            3            9mm9    ^^^  3   
+                           3            3    ~               [1|^][1|^][1|^]  3   
+                     P     3            3           ^        [1|^][1|^][1|^]  3   
+                   Z   Z   3       D    3    ^               [1|^][1|^][1|^]  3   
+                            ii      iiii3                    [1|^][1|^][1|^]  3   
+      d         Z   iiii Z  jiii###iijjj3                    [1|^][1|^][1|^]  3   
+           s        kkkk      kk###kk                        [1|^][1|^][1|^]  3   
+      d              kk   Z   kk   kk                    B   [1|^][1|^][1|^]  3   
+      h         Z    kk       kk   kk                        [1|^][1|^][1|^]  3   
+                     kk       kk < kk                        [1|^][1|^][1|^]  3   
+      >              kk   Z   k3   3k                        [1|^][1|^][1|^]  3   
+                Z    kk       k3   3k                        [1|^][1|^][1|^]  3   
+                    3kk3     3k3   3k                        [1|^][1|^][1|^]  3   
+                    3kk3  Z  3k3   3k333333333               [1|^][1|^][1|^]  3   
+3               Z   3kk3     3k              3               [1|^][1|^][1|^]  3   
+3                   3kk3     ii              3      [1|Z][1|Z] [1|Z][1|Z]    [1|^][1|^][1|^]  3   
+3            D      ikki  Y kj               3  %1%      Z [1|Z]   [1|^][1|^][1|^]  3   
+3        g      Z    kkB  C k              D iiiiiiii   Z [1|Z]  [1|^][1|^][1|^]  3   
+i           -        kk     k                k           Z [1|Z] [1|^][1|^][1|^]  3   
+k                  XXkk     iiii        iiiiii            Z [1|Z][1|^][1|^][1|^]  3   
+k     iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  j                  Z [1|^][1|^][1|^]  3   
+k                k             XX   ii  k                   Z[1|^][1|^][1|^]  3   
+k                j             ii (2) ii  k                    [1|^][1|^][1|^]  3   
+k C         7    #             3k   kk  kXXYZ      (2) 7 7  7  [1|^][1|^][1|^]C 3   
+k    Z    Z      #   b7 Z      3kkkkkk  iiiii  ZZ                 i   
+kii              #             iiiiiii  jjjjjiiiiiiiiiiiiiiiiiiiiik   
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiij                                     
+                                i                                 44  
+                                i (0)          [4|*]d         B         44  
+                                i    D    D    Z  X  Z   Z  Z   Z 44< 
+                                iii         ii>                   44  
+                                iiiiii##iiiiii[4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#][4|#]ii  
+                                     k  k    3333333333333333333333   
+                                     k  k                             
+                                     3  3                             
+                                     3  3                             
+                                     3  3                             
+                                     3  3                             
+                                     3 %4%3                             
+                                     iiii                             
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
